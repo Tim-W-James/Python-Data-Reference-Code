@@ -83,7 +83,7 @@
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-Java algorithm for solving the Tower of Hanoi problem. Also contains a GUI for playing the game, and a "solve with AI" button to use the aglorithm.
+Various data visualisation, ML, SQL and security reference code written in python.
 
 ### Features
 
